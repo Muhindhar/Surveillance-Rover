@@ -61,3 +61,8 @@ The rover is powered by an **Arduino microcontroller**, equipped with **wireless
 **Muhindhar S V**  
 📧 muhindharsv27@gmail.com  
 📌 [LinkedIn](linkedin.com/in/muhindhar-s-v) | [GitHub](https://github.com/Muhindhar)  
+
+
+![WhatsApp Image 2025-08-21 at 11 34 10_a24b98a3](https://github.com/user-attachments/assets/1379e300-f206-4784-ade5-4f73db469187)
+
+![WhatsApp Image 2025-08-21 at 11 34 10_f36bcd8b](https://github.com/user-attachments/assets/0429d444-196f-48bd-a8e8-f83f85358291)
